@@ -34,7 +34,7 @@ S=\left(
 \right)
 $$
 
-ただし、
+ただし:
 
 $$
 s_{jk} = \frac{1}{n}\sum^{n}_{i=1} (x_{ij}-\mu_{j})(x_ik-\mu_{k}) (j, k=1, ..., p)
