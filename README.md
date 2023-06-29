@@ -37,7 +37,7 @@ $$
 ただし：
 
 $$
-s_{jk} = \frac{1}{n}\sum^{n}_{i=1} (x_{ij}-\mu_{j})(x_{ik}-\mu_{k}) (j, k=1, ..., p)
+s_{jk} = \frac{1}{n}\sum^{n}_{i=1} (x_{ij}-\mu_{j})(x_{ik}-\mu_{k}) (j, k=1, \cdots, p)
 $$
 
 分散共分散行列 $S$ に対して、次の行列式を解くと固有値 $\lambda$ が求まる：
