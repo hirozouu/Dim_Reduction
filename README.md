@@ -34,6 +34,8 @@ S=\left(
 \right)
 $$
 
+ただし、
+
 $$
 s_{jk} = \frac{1}{n}\sum^{n}_{i=1}(x_{ij}-\mu_{j})(x_ik-\mu_{k}) (j, k=1, ..., p)
 $$
@@ -51,9 +53,11 @@ $$
 $$
 
 上記の行列式を解くと、 $p$ 個の固有値：
+
 $$
 \lambda_{1} \geq \cdots \geq \lambda_{p} \geq 0
 $$
+
 が得られる。数値の大きい固有値に対応する固有ベクトルから順に第1主成分、 $\cdots$ 、第 $p$ 主成分となる。
 
 ### SVD(Singular Value Decomposition : 特異値分解)
